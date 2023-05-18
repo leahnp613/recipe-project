@@ -3,3 +3,22 @@ body{
     padding:0;
 }
 
+main{
+    padding: 16px;
+}
+
+footer{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+img{
+    height: 200px;
+}
+
+nav{
+    border-bottom: black, 1px;
+    padding: 16px;
+}
